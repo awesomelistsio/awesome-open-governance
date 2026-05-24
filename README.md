@@ -48,6 +48,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [UK Government API Catalogue](https://api.gov.uk/) – Central directory of APIs for UK public services.
 - [EU Open Data Portal](https://data.europa.eu/en) – API and datasets from EU institutions.
 - [Canada Open Government Portal](https://open.canada.ca/en/open-data) – Government of Canada's open data and APIs.
+- [ph-civic-data-mcp](https://github.com/xmpuspus/ph-civic-data-mcp) – MCP wrapper for Philippine open-government APIs (PSGC, PHIVOLCS, PAGASA, PhilGEPS, PSA) plus World Bank, NASA, USGS, and NOAA. 29 AI-agent-callable tools, zero required API keys, MIT.
 
 ## Research & Advocacy
 
