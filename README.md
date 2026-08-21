@@ -34,6 +34,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Consul Project](https://consulproject.org/en/) – Free software for citizen participation.
 - [FixMyStreet](https://www.fixmystreet.com/) – Report local problems like potholes and broken lights.
 - [OpenStates](https://openstates.org/) – Discover and track legislation across US states.
+- [MarkSafe](https://marksafe.net/) – Anonymous civic hazard reporting covering all 141 districts of Pakistan, with automated accountability via X tagging of responsible elected officials.
 
 ## Global Governance & Open Data
 
