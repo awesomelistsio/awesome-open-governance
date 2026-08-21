@@ -27,7 +27,7 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 - [Follow the Money](https://followthemoney.org/) – Investigations and data on political and corporate influence.
 - [Transparency International](https://www.transparency.org/) – Global movement against corruption and for accountability.
 - [Open Contracting Partnership](https://www.open-contracting.org/) – Open data standards and tools for public procurement transparency.
-
+- [Crime Brasil](https://crimebrasil.com.br) - Open data platform consolidating Brazilian public-safety microdata (3M+ incidents, city and neighbourhood level, 2022-2026) with a free API.
 ## Civic Tech Platforms
 
 - [Decidim](https://decidim.org/) – Open-source participatory democracy platform.
