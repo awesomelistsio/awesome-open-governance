@@ -1,4 +1,4 @@
-# Awesome Open Governance [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Open Governance [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -65,11 +65,11 @@ A curated list of high-quality tools, platforms, datasets, and organizations pro
 
 ## Related Awesome Lists
 
-- **[Awesome Civic Tech](https://github.com/awesomelistsio/awesome-civic-tech)**
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)**
-- **[Awesome Political Science](https://github.com/awesomelistsio/awesome-political-science)**
-- **[Awesome Human Rights](https://github.com/awesomelistsio/awesome-human-rights)**
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)**
+- **[Awesome Civic Tech](https://github.com/brandonhimpfen/awesome-civic-tech)**
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)**
+- **[Awesome Political Science](https://github.com/brandonhimpfen/awesome-political-science)**
+- **[Awesome Human Rights](https://github.com/brandonhimpfen/awesome-human-rights)**
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)**
 
 ## Contribute
 
